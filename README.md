@@ -6,7 +6,7 @@ This system is used to help the visually impaired to have access to the most imp
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
 
 Tech- stacks used:
-
+		
 1. SpeechRecognizer, Google API for speech to text conversion
 
 2. Python Text to Speech https://pypi.org/project/pyttsx3/
@@ -16,3 +16,7 @@ Tech- stacks used:
 4. Google Cloud Vision API 
 
 5. Dialogflow
+
+Run Code:
+
+python main.py
